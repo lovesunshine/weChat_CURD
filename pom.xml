@@ -53,7 +53,6 @@
 			<version>1.16.10</version>
 		</dependency>
 
-		//lombok 简写实体类的书写
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
